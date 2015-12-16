@@ -5,6 +5,7 @@ Over the past months (nay, years) I have been cleaning up my music library. I ha
 
 I have found a few different sources (some of which are just copies of each other or copies of examples from Apple) to "Manage iTunes on Windows using JavaScript with the iTunes SDK". Obviously, there is also the iTunes COM Windows SDK which includes a few JS samples.
 Here are a couple of links to other sources of Javascript for iTunes.
+
 1. [OttoDestruct](http://ottodestruct.com/blog/2005/itunes-javascripts/)
 2. [EverythingiTunes](https://everythingitunes.wordpress.com/scripts/)
 3. [Brian Ander](https://github.com/briananders/iTunes-JavaScript-JScript)
