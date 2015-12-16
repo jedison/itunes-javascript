@@ -6,9 +6,9 @@ Over the past months (nay, years) I have been cleaning up my music library. I ha
 I have found a few different sources (some of which are just copies of each other or copies of examples from Apple) to "Manage iTunes on Windows using JavaScript with the iTunes SDK". Obviously, there is also the iTunes COM Windows SDK which includes a few JS samples.
 Here are a couple of links to other sources of Javascript for iTunes.
 
-- [OttoDestruct](http://ottodestruct.com/blog/2005/itunes-javascripts/)
-- [EverythingiTunes](https://everythingitunes.wordpress.com/scripts/)
-- [Brian Ander](https://github.com/briananders/iTunes-JavaScript-JScript)
+* [OttoDestruct](http://ottodestruct.com/blog/2005/itunes-javascripts/)
+* [EverythingiTunes](https://everythingitunes.wordpress.com/scripts/)
+* [Brian Ander](https://github.com/briananders/iTunes-JavaScript-JScript)
 
 Now, for me, these are good resources, but what I am missing is some more powerful and tricky scripts. For example, I have recently subscribed to iTunes Match so that I can upgrade my older MP3 ripped music into higher bitrate audio (e.g. 256 kbps AAC).
 The problem that I have with this is that the "Matched AAC audio file" that iTunes Match allows me to download has my iTunes account stamped into it. So what if I want to share this audio file with family or friends? What happens (hopefully far in the future) when I die and my iTunes account is no longer active and iTunes Match is turned off?
